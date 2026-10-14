@@ -1,14 +1,12 @@
 <div align="center">
 
-# Anvil
+# Vitkilabs Anvil
 
-### Your AI has amnesia. I got tired of paying for it.
+**Encrypted, local memory for your AI coding assistants: an MCP server and desktop app for Claude Code, Codex/ChatGPT and Copilot.**
 
-**A private, local memory-and-reasoning brain that sits underneath the AI you already use.**
+Your assistants remember your projects, decisions and preferences across sessions, and keep a task board they can update. Everything stays encrypted on your computer. The core is free.
 
-[**⬇ Download**](https://github.com/Vitkilabs/anvil-releases/releases/latest) · [**🌐 vitkilabs.com**](https://vitkilabs.com) · [**📖 The full story**](https://vitkilabs.com/blog)
-
-macOS · Windows · Linux — the core memory brain is **free, yours forever.**
+macOS (Apple silicon) · Windows 10/11 · Linux · [**⬇ Download**](https://vitkilabs.com/download) · [**📖 Docs**](https://vitkilabs.com/docs/anvil) · [**🌐 vitkilabs.com**](https://vitkilabs.com/anvil)
 
 ![Anvil's memory, rendered live as a 3D galaxy — the Crucible mid-debate around the core.](assets/02-environment-3d.png)
 
